@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning the basics. HTML/CSS and JS. I started with Angular and C# though, but I had to back and start building the house by the floor.
 - 💞️ I’m looking to collaborate on whatever you thing I am capable.
 - 📫 How to reach me ... here: rubenmontero@rocketmail.com
+- Now I'm working on a personal project trying to masterize HTML/CSS and improve my skills constantly.
 
 <!---
 rubenmonterogonzalez/rubenmonterogonzalez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

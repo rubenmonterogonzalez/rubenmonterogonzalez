@@ -1,11 +1,7 @@
-- 👋 Hi, I’m @rubenmonterogonzalez, just a guy who discovered this world and he realized that the learning is infinite. That's why this world is so amazing.
-- 👀 I’m interested in front-end/client-side specially, but I have fun figuring out new things.
-- 🌱 I’m currently learning the basics. HTML/CSS and JS. I started with Angular and C# though, but I had to back and start building the house by the floor.
-- 💞️ I’m looking to collaborate on whatever you thing I am capable.
-- 📫 How to reach me ... here: rubenmontero@rocketmail.com
-- Now I'm working on a personal project trying to masterize HTML/CSS and improve my skills constantly.
+Hi, I'm Ruben, just a guy who discovered this world about the art of programming. 
+Someone gave me the opportunity to get into web development and I started developing landing pages for clients and ended up collaborating on SPA projects using Angular and most recently React.js. 
+Since then, I have not stopped to get involved in different projects and finding new bugs.
+I am a visual person and design is everything, which is why I like to combine the art of design with the art of coding.
+Especially interested in the client / front end, but I have fun discovering new things.
+Always open to learn new material.
 
-<!---
-rubenmonterogonzalez/rubenmonterogonzalez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->

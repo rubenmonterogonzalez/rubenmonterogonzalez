@@ -3,5 +3,5 @@ Someone gave me the opportunity to get into web development and I started develo
 Since then, I have not stopped to get involved in different projects and finding new bugs.
 I am a visual person and design is everything, which is why I like to combine the art of design with the art of coding.
 Especially interested in the client / front end, but I have fun discovering new things.
-Always open to learn new material.
+Always open to learn new stuff.
 

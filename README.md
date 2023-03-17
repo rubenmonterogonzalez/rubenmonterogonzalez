@@ -1,8 +1,12 @@
 # hello-world👋
 
-I'm Ruben, just a guy who discovered this world 🌎 about the art of programming. Someone 🎓 gave me the opportunity to get into web development and I started developing landing pages for clients and ended up collaborating on SPA projects 💼 using Angular and most recently React.js and Vue.js. 
+Hi, I'm Ruben, a web developer with over 2 years of experience in building web applications with a focus on React. I've worked on a variety of projects, from developing landing pages to building complex applications using React.js.
 
-Since then, I have not stopped to get involved in different projects and finding new bugs. I am a visual person and design is everything, which is why I like to combine the art of design with the art of coding. Especially interested in the client / front end, but I have fun discovering new things. Always open to learn new stuff.
+My passion for web development lies in creating intuitive and engaging user interfaces. I believe that great design and efficient code go hand in hand, and strive to ensure that my applications not only look great but are also performant and maintainable.
+
+As a developer, I enjoy collaborating with others and learning from their experiences. I'm always looking for ways to expand my skillset and stay up-to-date with the latest technologies and best practices.
+
+If you're interested in collaborating on a project or just want to connect, feel free to reach out to me. I'd love to chat!
 
 ## Find me 😎:
 

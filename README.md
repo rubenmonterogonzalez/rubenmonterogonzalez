@@ -6,13 +6,13 @@ Passionate about web development and coding with TypeScript. Focused on crafting
 
 ### GitHub Stats
 
-![Ruben's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rubenmonterogonzalez&show_icons=true&theme=dark)
-
-![Ruben's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rubenmonterogonzalez&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rubenmonterogonzalez&layout=compact&theme=dark)
-
+<div display="flex">
+  <img src="https://github-readme-stats.vercel.app/api?username=rubenmonterogonzalez&show_icons=true&theme=dark" height="140" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rubenmonterogonzalez&theme=dark" height="140" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubenmonterogonzalez&layout=compact&theme=dark" height="140" width="100%" />
+</div>
 
 
 ## Connect with me
-[![LinkedIn](https://www.linkedin.com/in/ruben-montero-gonzalez/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruben-montero-gonzalez/)

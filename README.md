@@ -1,6 +1,18 @@
-# Hello there!
+# Ruben Montero
 
-I am passionate about creating engaging and user-friendly applications. With a keen eye for design and a deep understanding of development principles, I have contributed to the development of different high-profile projects. Always eager to learn and grow in this field, and always keep myself expanding my skills set. Excited to bring my organizational skills, attention to detail, and passion for frontend development to a dynamic team.
+## About Me
+Passionate about web development and coding with TypeScript. Focused on crafting exceptional and efficient web solutions.
+- 🔭 I’m currently working at @datalitiks
+
+### GitHub Stats
+
+![Ruben's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rubenmonterogonzalez&show_icons=true&theme=dark)
+
+![Ruben's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rubenmonterogonzalez&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rubenmonterogonzalez&layout=compact&theme=dark)
 
 
 
+## Connect with me
+[![LinkedIn](https://www.linkedin.com/in/ruben-montero-gonzalez/)

@@ -2,7 +2,7 @@
 
 ## About Me
 Passionate about web development and coding with TypeScript. Focused on crafting exceptional and efficient web solutions.
-- 🔭 I’m currently working at @datalitiks
+- 🔭 I’m currently working at @BetssonGroup
 
 ### GitHub Stats
 
